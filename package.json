@@ -48,7 +48,7 @@
 		"postgres": "^3.4.5",
 		"resend": "^4.1.2",
 		"stripe": "^17.6.0",
-		"supabase": "^2.12.1",
+		"supabase": "^2.72.9",
 		"svelte-5-french-toast": "^2.0.4",
 		"zod": "^3.24.2",
 		"zod-form-data": "^2.0.5"
